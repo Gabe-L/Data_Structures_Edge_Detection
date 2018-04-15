@@ -329,4 +329,4 @@ ASALocalRun/
 .mfractor/
 
 #Ignore openCV stuff
-OpenCV-3.4.1/*
+OpenCV-3.4.1
